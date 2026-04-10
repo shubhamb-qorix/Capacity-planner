@@ -1,0 +1,7 @@
+Flask
+python-jira
+flask-cors
+python-dotenv
+pandas
+requests
+jira
